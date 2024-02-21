@@ -1,0 +1,11 @@
+* **使用手册**
+	* [软件介绍](README.md)
+	* [PDF排版引擎](manual/pdfengine.md)
+	* [人工校对](manual/pdf_manual_editing.md)
+	* [翻译器选择](manual/translation_settings.md)
+	* [OCR选择](manual/ocr_settings.md)
+	* [PDF字体设置](manual/pdffont.md)
+	* [WindowsOCR](manual/windowsocr.md)
+    * [Windows拖拽设置](manual/windows.md)
+	* [快捷翻译](manual/kuanjie.md)
+	* [联系我们](manual/contact.md)

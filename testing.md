@@ -1,0 +1,12 @@
+# 趣卡翻译2023内测下载地址
+>以下所有链接均于2023年05月15日进行更新。
+
+!> 由于`Windows`版本没有进行360杀毒软件等签名认证(**需每年缴纳高昂认证费**)，可能会被360杀毒软件误报导致文件缺失无法安装或运行，若出现安装或者运行失败，可将误报文件加入信任列表即可，**目前测试火绒扫描后不会误报**。苹果`macOS`目前已经进行苹果开发者签名认证。
+
+| 趣卡翻译2023 |系统要求| 说明 |下载地址|
+| :---: | :---: | :---: |:---:|
+| `Windows`版本 | Windows7及其以上 | 可通过安装创建快捷方式 | [点此下载 ⬇](https://down.qukaa.com/d/qukaa/qukaa/qukaa_translation2023_setup.zip)|
+| `macOS`版本 | macOS10.14及其以上| 需首先拖入应用程序后，[并设置允许其他来源的应用](https://fanyi.qukaa.com/docs/#/manual/macos)| [点此下载 ⬇](https://down.qukaa.com/d/qukaa/qukaa/qukaa2023mac.dmg)|
+
+### 您可点如下链接：[更新说明](https://mp.weixin.qq.com/s/6G4joGUc7mSUCjcCDiPk1g)或软件内的压缩包，查看具体的更新记录。
+
